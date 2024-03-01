@@ -10,6 +10,7 @@
         <module name="gateway" />
         <module name="discovery-service" />
         <module name="Inventory-service" />
+        <module name="billing-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Gateway1" options="-parameters" />
       <module name="Inventory-service" options="-parameters" />
+      <module name="billing-service" options="-parameters" />
       <module name="customer-service" options="-parameters" />
       <module name="discovery-service" options="-parameters" />
       <module name="discovery-service1" options="-parameters" />

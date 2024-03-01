@@ -46,3 +46,15 @@
 <img src="Captures/capture15.jpg" alt=""><br>
 <p>Consulter le web service grace a son nom : INVENTORY-SERVICE</p>
 <img src="Captures/capture16.jpg" alt=""><br><br>
+
+<h3>Question 7</h3>
+<p>Créer le service de facturation Billing-Service en utilisant Open Feign</p>
+<img src="Captures/capture20.jpg" alt=""><br>
+<p>Consultation de la base de données via le port:8083</p>
+<img src="Captures/capture17.jpg" alt=""><br>
+<p>Tester le service de facturation: les différents produits et le client correspondants</p>
+<img src="Captures/capture18.jpg" alt=""><br>
+<p>Tester le service de facturation via la gateway</p>
+<img src="Captures/capture19.jpg" alt=""><br><br>
+
+<h3>FIN</h3>
